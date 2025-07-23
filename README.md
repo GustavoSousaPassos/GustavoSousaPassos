@@ -11,12 +11,10 @@ Tenho 24 anos, sou formado em Analise e Desenvolvimento de  Sistemas na UNINOVE.
 ## Linguagens Tecnologias 
 
 <img
-    style="padding-right: 10px;"
     width="50px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
 
 <img 
-    style= "padding-right: 10px;"
     width="50px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
 />
