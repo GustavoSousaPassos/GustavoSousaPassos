@@ -56,9 +56,7 @@ Tenho 24 anos, sou formado em Analise e Desenvolvimento de  Sistemas na UNINOVE.
           
 <br>
 <br>
-<br>
-<br>
-<br>
+
 <img
     style="float: left; padding-right: 10px;"
     height="200"
@@ -68,5 +66,5 @@ Tenho 24 anos, sou formado em Analise e Desenvolvimento de  Sistemas na UNINOVE.
 <img
     style="float: left; padding-right: 10px;"
     height="200"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSousaPassos&theme=holi&layout=compact&custom_title=Tecnologias" alt="estatisticas">
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSousaPassos&theme=holi&layout=compact&custom_title=Tecnologias" alt="tecnoologias">
 </img>
