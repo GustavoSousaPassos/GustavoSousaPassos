@@ -2,7 +2,7 @@
 
 **Desenvolvedor Web** 
 
-Tenho 24 anos, sou formado em Analise e Desenvolvimento de  Sistemas na UNINOVE. Atualmente estou procurando por novas oportunidades que me possibilitem desenvolver tecnologias e soluções que possam ajudar e otimizar as necessidades das empresas.
+Tenho 25 anos, sou formado em Analise e Desenvolvimento de  Sistemas na UNINOVE. Atualmente estou procurando por novas oportunidades que me possibilitem desenvolver tecnologias e soluções que possam ajudar e otimizar as necessidades das empresas.
 
 <a href="https://www.linkedin.com/in/gustavo-sousa-passos-14574b16a">
 <img src="https://img.shields.io/badge/Linkedin-blue" alt=""></img>
